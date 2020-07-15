@@ -10,6 +10,7 @@
     padding-top: 15px;
     padding-bottom: 15px;
     max-width: 960px;
+    margin: 0 auto;
     background-color: #EFEFEF;
 }
 
@@ -104,4 +105,14 @@ footer {
     text-align: center;
     color: #333;
     padding: 5px;
+    display: block;
+}
+header {
+    -moz-box-shadow-bottom: 0px #000;
+    -webkit-box-shadow-bottom: 0px #000;
+    box-shadow-bottom: 0px #000;
+    border: 1px solid #fff;
+    margin: 0;
+    padding: 0em;
+    border-bottom: 0;
 }
