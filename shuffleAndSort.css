@@ -99,3 +99,9 @@
         border-left-color: #BFBFBF;
     }
 }
+footer {
+    font-size: 0.8em;
+    text-align: center;
+    color: #333;
+    padding: 5px;
+}
